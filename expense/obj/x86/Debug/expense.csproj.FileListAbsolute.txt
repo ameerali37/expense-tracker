@@ -1,0 +1,61 @@
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\bin\Debug\expense.exe
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\bin\Debug\expense.pdb
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form1.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Properties.Resources.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.exe
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.pdb
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form2.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form3.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form4.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form5.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form6.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form7.resources
+c:\users\ameer\documents\visual studio 2010\Projects\expense\expense\bin\Debug\expense.exe.config
+D:\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.exe.config
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.exe
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.pdb
+D:\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.exe
+D:\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.pdb
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form1.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form2.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form3.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form4.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form5.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form6.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form7.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Properties.Resources.resources
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.csproj.GenerateResource.Cache
+D:\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.csprojResolveAssemblyReference.cache
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.exe.config
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.exe
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.pdb
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.exe
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\bin\Debug\expense.pdb
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.csprojResolveAssemblyReference.cache
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form1.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form2.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form3.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form4.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form5.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form6.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Form7.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.Properties.Resources.resources
+D:\New\windows\Visual Studio 2010\Projects\expense\expense\obj\x86\Debug\expense.csproj.GenerateResource.Cache
+D:\My Dot Net Projects\expense\expense\bin\Debug\expense.exe.config
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.exe
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.pdb
+D:\My Dot Net Projects\expense\expense\bin\Debug\expense.exe
+D:\My Dot Net Projects\expense\expense\bin\Debug\expense.pdb
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.csprojResolveAssemblyReference.cache
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form1.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form2.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form3.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form4.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form5.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form6.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Form7.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.Properties.Resources.resources
+D:\My Dot Net Projects\expense\expense\obj\x86\Debug\expense.csproj.GenerateResource.Cache
